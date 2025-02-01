@@ -22,7 +22,7 @@ The app underwent a significant update, requiring thorough testing of two key fe
 - **Carsharing:** an existing feature with newly developed backend logic.
 - **Aero Taxi:** a confidential upcoming feature that was not yet visible in the UI but required pre-release testing.
 
-This project also involves both **manual and automated UI testing**, focusing on validating the app's functionality to ensure a seamless user experience.
+This project involves both **manual and automated UI testing**, focusing on validating the app's functionality to ensure a seamless user experience.
 <p float="center">
   <kbd>
 <img src="/Screenshots/6.png" alt=" Web App Screenshot" width=70% heigh=70% hspace="140">
